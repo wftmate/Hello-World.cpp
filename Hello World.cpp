@@ -77,6 +77,3 @@ int main() {
 // cout >> output - prints output
 // cerr - error output
 // clog - logging output
-
-
-// additional comment
